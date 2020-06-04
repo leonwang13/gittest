@@ -1,2 +1,2 @@
 # gittest
-initial git for master test2
+initial git for master 2test
